@@ -18,3 +18,8 @@ var myVar = "Hello, world!";
 ``` html
 <h1> Hello World </h1>
 ```
+
+# ADDING CHECK LIST
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
