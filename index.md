@@ -3,3 +3,18 @@
 
 # ADDING IMG IN .MD FILE
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# ADDING CODE BLOCKS
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` html
+<h1> Hello World </h1>
+```
